@@ -1,0 +1,1889 @@
+{
+    "background #": {
+        "prefix": "background #",
+        "body": "background #",
+        "description": "背景"
+    },
+    "scene #": {
+        "prefix": "scene #",
+        "body": "scene #",
+        "description": "背景"
+    },
+    "scene name": {
+        "prefix": "scene name",
+        "body": "scene name",
+        "description": "背景名"
+    },
+    "x gravity": {
+        "prefix": "x gravity",
+        "body": "x gravity",
+        "description": "x重力"
+    },
+    "y gravity": {
+        "prefix": "y gravity",
+        "body": "y gravity",
+        "description": "y重力"
+    },
+    "x position": {
+        "prefix": "x position",
+        "body": "x position",
+        "description": "x坐标"
+    },
+    "y position": {
+        "prefix": "y position",
+        "body": "y position",
+        "description": "y坐标"
+    },
+    "direction": {
+        "prefix": "direction",
+        "body": "direction",
+        "description": "方向"
+    },
+    "costume #": {
+        "prefix": "costume #",
+        "body": "costume #",
+        "description": "颜色样式"
+    },
+    "costume name": {
+        "prefix": "costume name",
+        "body": "costume name",
+        "description": "图片样式"
+    },
+    "say": {
+        "prefix": "say",
+        "body": "say",
+        "description": "说"
+    },
+    "visible": {
+        "prefix": "visible",
+        "body": "visible",
+        "description": "可见性"
+    },
+    "size": {
+        "prefix": "size",
+        "body": "size",
+        "description": "大小"
+    },
+    "volume": {
+        "prefix": "volume",
+        "body": "volume",
+        "description": "音量"
+    },
+    "density": {
+        "prefix": "density",
+        "body": "density",
+        "description": "密度"
+    },
+    "friction": {
+        "prefix": "friction",
+        "body": "friction",
+        "description": "摩擦力"
+    },
+    "restitution": {
+        "prefix": "restitution",
+        "body": "restitution",
+        "description": "restitution"
+    },
+    "angular velocity": {
+        "prefix": "angular velocity",
+        "body": "angular velocity",
+        "description": "角速度"
+    },
+    "angular damping": {
+        "prefix": "angular damping",
+        "body": "angular damping",
+        "description": "角阻力"
+    },
+    "linear damping": {
+        "prefix": "linear damping",
+        "body": "linear damping",
+        "description": "直线阻力"
+    },
+    "x linear velocity": {
+        "prefix": "x linear velocity",
+        "body": "x linear velocity",
+        "description": "x轴速度"
+    },
+    "y linear velocity": {
+        "prefix": "y linear velocity",
+        "body": "y linear velocity",
+        "description": "y轴速度"
+    },
+    "inertia": {
+        "prefix": "inertia",
+        "body": "inertia",
+        "description": "惯性"
+    },
+    "awake": {
+        "prefix": "awake",
+        "body": "awake",
+        "description": "唤醒"
+    },
+    "width": {
+        "prefix": "width",
+        "body": "width",
+        "description": "宽度"
+    },
+    "height": {
+        "prefix": "height",
+        "body": "height",
+        "description": "高度"
+    },
+    "effec": {
+        "prefix": "effec",
+        "body": "effec",
+        "description": "效果"
+    },
+    "null": {
+        "prefix": "null",
+        "body": "null",
+        "description": "null"
+    },
+    "true": {
+        "prefix": "true",
+        "body": "true",
+        "description": "true"
+    },
+    "false": {
+        "prefix": "false",
+        "body": "false",
+        "description": "false"
+    },
+    "break": {
+        "prefix": "break",
+        "body": "break",
+        "description": "break"
+    },
+    "case": {
+        "prefix": "case",
+        "body": "case",
+        "description": "case"
+    },
+    "catch": {
+        "prefix": "catch",
+        "body": "catch",
+        "description": "catch"
+    },
+    "const": {
+        "prefix": "const",
+        "body": "const",
+        "description": "const"
+    },
+    "default": {
+        "prefix": "default",
+        "body": "default",
+        "description": "default"
+    },
+    "finally": {
+        "prefix": "finally",
+        "body": "finally",
+        "description": "finally"
+    },
+    "for": {
+        "prefix": "for",
+        "body": "for",
+        "description": "for"
+    },
+    "instanceof": {
+        "prefix": "instanceof",
+        "body": "instanceof",
+        "description": "instanceof"
+    },
+    "new": {
+        "prefix": "new",
+        "body": "new",
+        "description": "new"
+    },
+    "var": {
+        "prefix": "var",
+        "body": "var",
+        "description": "var"
+    },
+    "continue": {
+        "prefix": "continue",
+        "body": "continue",
+        "description": "continue"
+    },
+    "function": {
+        "prefix": "function",
+        "body": "function",
+        "description": "function"
+    },
+    "return": {
+        "prefix": "return",
+        "body": "return",
+        "description": "return"
+    },
+    "void": {
+        "prefix": "void",
+        "body": "void",
+        "description": "void"
+    },
+    "delete": {
+        "prefix": "delete",
+        "body": "delete",
+        "description": "delete"
+    },
+    "if": {
+        "prefix": "if",
+        "body": "if",
+        "description": "if"
+    },
+    "this": {
+        "prefix": "this",
+        "body": "this",
+        "description": "this"
+    },
+    "do": {
+        "prefix": "do",
+        "body": "do",
+        "description": "do"
+    },
+    "while": {
+        "prefix": "while",
+        "body": "while",
+        "description": "while"
+    },
+    "else": {
+        "prefix": "else",
+        "body": "else",
+        "description": "else"
+    },
+    "in": {
+        "prefix": "in",
+        "body": "in",
+        "description": "in"
+    },
+    "switch": {
+        "prefix": "switch",
+        "body": "switch",
+        "description": "switch"
+    },
+    "throw": {
+        "prefix": "throw",
+        "body": "throw",
+        "description": "throw"
+    },
+    "try": {
+        "prefix": "try",
+        "body": "try",
+        "description": "try"
+    },
+    "typeof": {
+        "prefix": "typeof",
+        "body": "typeof",
+        "description": "typeof"
+    },
+    "with": {
+        "prefix": "with",
+        "body": "with",
+        "description": "with"
+    },
+    "debugger": {
+        "prefix": "debugger",
+        "body": "debugger",
+        "description": "debugger"
+    },
+    "this.setState": {
+        "prefix": "this.setState",
+        "body": "this.setState({${1}});",
+        "description": "设置状态"
+    },
+    "this.onStart": {
+        "prefix": "this.onStart",
+        "body": "this.onStart(function () { ${1}});",
+        "description": "当开始被点击"
+    },
+    "this.onCondition": {
+        "prefix": "this.onCondition",
+        "body": "this.onCondition(function () { return condition; }, function () { ${1}});",
+        "description": "当达到条件"
+    },
+    "this.onActorClick": {
+        "prefix": "this.onActorClick",
+        "body": "this.onActorClick(function () { ${1}});",
+        "description": "当角色被点击"
+    },
+    "this.onKeyPress": {
+        "prefix": "this.onKeyPress",
+        "body": "this.onKeyPress(\"space\", function () { ${1}});",
+        "description": "当键盘被点击"
+    },
+    "this.onSceneChange": {
+        "prefix": "this.onSceneChange",
+        "body": "this.onSceneChange(function () { ${1}});",
+        "description": "当场景变更"
+    },
+    "this.onMessageReceived": {
+        "prefix": "this.onMessageReceived",
+        "body": "this.onMessageReceived(${1:message}, function () { ${2}});",
+        "description": "当收到信息"
+    },
+    "this.onClone": {
+        "prefix": "this.onClone",
+        "body": "this.onClone(function () { ${1}});",
+        "description": "当克隆"
+    },
+    "this.onDraw": {
+        "prefix": "this.onDraw",
+        "body": "this.onDraw(function () { ${1}});",
+        "description": "当绘制"
+    },
+    "this.onCollision": {
+        "prefix": "this.onCollision",
+        "body": "this.onCollision(function () { ${1}});",
+        "description": "当碰撞"
+    },
+    "this.onAnimationDone": {
+        "prefix": "this.onAnimationDone",
+        "body": "this.onAnimationDone(function () { ${1}});",
+        "description": "当动画完成"
+    },
+    "this.requestBlock": {
+        "prefix": "this.requestBlock",
+        "body": "this.requestBlock(function () { ${1}});",
+        "description": "当请求程序块"
+    },
+    "Math.abs(theta)": {
+        "prefix": "Math.abs(theta);",
+        "body": "Math.abs(theta);",
+        "description": "Math.abs(theta)"
+    },
+    "Math.acos(theta)": {
+        "prefix": "Math.acos(theta);",
+        "body": "Math.acos(theta);",
+        "description": "Math.acos(theta)"
+    },
+    "Math.asin(theta)": {
+        "prefix": "Math.asin(theta);",
+        "body": "Math.asin(theta);",
+        "description": "Math.asin(theta)"
+    },
+    "Math.atan(theta)": {
+        "prefix": "Math.atan(theta);",
+        "body": "Math.atan(theta);",
+        "description": "Math.atan(theta)"
+    },
+    "Math.atan2(y, x)": {
+        "prefix": "Math.atan2(y, x);",
+        "body": "Math.atan2(y, x);",
+        "description": "Math.atan2(y, x)"
+    },
+    "Math.ceil(n)": {
+        "prefix": "Math.ceil(n);",
+        "body": "Math.ceil(n);",
+        "description": "Math.ceil(n)"
+    },
+    "Math.cos(n)": {
+        "prefix": "Math.cos(n);",
+        "body": "Math.cos(n);",
+        "description": "Math.cos(n)"
+    },
+    "Math.exp(n)": {
+        "prefix": "Math.exp(n);",
+        "body": "Math.exp(n);",
+        "description": "Math.exp(n)"
+    },
+    "Math.floor(n)": {
+        "prefix": "Math.floor(n);",
+        "body": "Math.floor(n);",
+        "description": "Math.floor(n)"
+    },
+    "Math.log(n)": {
+        "prefix": "Math.log(n);",
+        "body": "Math.log(n);",
+        "description": "Math.log(n)"
+    },
+    "Math.max(n, m)": {
+        "prefix": "Math.max(n, m);",
+        "body": "Math.max(n, m);",
+        "description": "Math.max(n, m)"
+    },
+    "Math.min(n, m)": {
+        "prefix": "Math.min(n, m);",
+        "body": "Math.min(n, m);",
+        "description": "Math.min(n, m)"
+    },
+    "Math.pow(x, y)": {
+        "prefix": "Math.pow(x, y);",
+        "body": "Math.pow(x, y);",
+        "description": "Math.pow(x, y)"
+    },
+    "Math.random()": {
+        "prefix": "Math.random();",
+        "body": "Math.random();",
+        "description": "Math.random()"
+    },
+    "Math.randomRange(min, max)": {
+        "prefix": "Math.randomRange(min, max);",
+        "body": "Math.randomRange(min, max);",
+        "description": "Math.randomRange(min, max)"
+    },
+    "Math.round(n)": {
+        "prefix": "Math.round(n);",
+        "body": "Math.round(n);",
+        "description": "Math.round(n)"
+    },
+    "Math.sin(theta)": {
+        "prefix": "Math.sin(theta);",
+        "body": "Math.sin(theta);",
+        "description": "Math.sin(theta)"
+    },
+    "Math.sqrt(n)": {
+        "prefix": "Math.sqrt(n);",
+        "body": "Math.sqrt(n);",
+        "description": "Math.sqrt(n)"
+    },
+    "Math.tan(theta)": {
+        "prefix": "Math.tan(theta);",
+        "body": "Math.tan(theta);",
+        "description": "Math.tan(theta)"
+    },
+    "Math.E": {
+        "prefix": "Math.E",
+        "body": "Math.E;",
+        "description": "Math.E"
+    },
+    "Math.PI": {
+        "prefix": "Math.PI",
+        "body": "Math.PI;",
+        "description": "Math.PI"
+    },
+    "Math.SQRT2": {
+        "prefix": "Math.SQRT2",
+        "body": "Math.SQRT2;",
+        "description": "Math.SQRT2"
+    },
+    "Math.SQRT1_2": {
+        "prefix": "Math.SQRT1_2",
+        "body": "Math.SQRT1_2;",
+        "description": "Math.SQRT1_2"
+    },
+    "Math.LN2": {
+        "prefix": "Math.LN2",
+        "body": "Math.LN2;",
+        "description": "Math.LN2"
+    },
+    "Math.LN10": {
+        "prefix": "Math.LN10",
+        "body": "Math.LN10;",
+        "description": "Math.LN10"
+    },
+    "Math.LOG2E": {
+        "prefix": "Math.LOG2E",
+        "body": "Math.LOG2E;",
+        "description": "Math.LOG2E"
+    },
+    "Math.LOG10E": {
+        "prefix": "Math.LOG10E",
+        "body": "Math.LOG10E;",
+        "description": "Math.LOG10E"
+    },
+    "this.broadcast(event)": {
+        "prefix": "this.broadcast(event);",
+        "body": "this.broadcast(event);",
+        "description": "广播(string)"
+    },
+    "this.broadcastAndWait(event)": {
+        "prefix": "this.broadcastAndWait(event);",
+        "body": "this.broadcastAndWait(event);",
+        "description": "广播并等待(string)"
+    },
+    "this.post(event, target, arg)": {
+        "prefix": "this.post(event, target, arg);",
+        "body": "this.post(event, target, arg);",
+        "description": "对单个角色发送消息(string, string, string|array)"
+    },
+    "this.postAndWait(event, target, arg)": {
+        "prefix": "this.postAndWait(event, target, arg);",
+        "body": "this.postAndWait(event, target, arg);",
+        "description": "对单个角色发送消息并等待(string,string,string|array)"
+    },
+    "this.getMessageValue()": {
+        "prefix": "this.getMessageValue();",
+        "body": "this.getMessageValue();",
+        "description": "获得post传递来的arg"
+    },
+    "this.getMessageSource()": {
+        "prefix": "this.getMessageSource();",
+        "body": "this.getMessageSource();",
+        "description": "获得消息源"
+    },
+    "this.isClone()": {
+        "prefix": "this.isClone();",
+        "body": "this.isClone();",
+        "description": "判断当前角色是否为克隆角色"
+    },
+    "this.wait(seconds)": {
+        "prefix": "this.wait(seconds);",
+        "body": "this.wait(seconds);",
+        "description": "等待秒(number)"
+    },
+    "this.waitUntil(condition)": {
+        "prefix": "this.waitUntil(condition);",
+        "body": "this.waitUntil(condition);",
+        "description": "等待直到为true(boolean)"
+    },
+    "this.clone(actorName)": {
+        "prefix": "this.clone(actorName);",
+        "body": "this.clone(actorName);",
+        "description": "按角色名克隆(string)"
+    },
+    "this.getLastClonedActor()": {
+        "prefix": "this.getLastClonedActor();",
+        "body": "this.getLastClonedActor();",
+        "description": "获得克隆的最后一个角色"
+    },
+    "this.getOriginalNameFromClone(actorName)": {
+        "prefix": "this.getOriginalNameFromClone(actorName);",
+        "body": "this.getOriginalNameFromClone(actorName);",
+        "description": "获得克隆源"
+    },
+    "this.deleteActor()": {
+        "prefix": "this.deleteActor();",
+        "body": "this.deleteActor();",
+        "description": "删除当前角色"
+    },
+    "this.terminate(type)": {
+        "prefix": "this.terminate(type);",
+        "body": "this.terminate(type);",
+        "description": "终止(string: all|this script|other scripts in actor|function call chain)"
+    },
+    "this.motion.move(d)": {
+        "prefix": "this.motion.move(d);",
+        "body": "this.motion.move(d);",
+        "description": "向角色当前方向的右侧移动(number)"
+    },
+    "this.motion.turnCW(degrees)": {
+        "prefix": "this.motion.turnCW(degrees);",
+        "body": "this.motion.turnCW(degrees);",
+        "description": "当前角色在当前朝向基础上顺时针旋转角度(number)"
+    },
+    "this.motion.turnCCW(degrees)": {
+        "prefix": "this.motion.turnCCW(degrees);",
+        "body": "this.motion.turnCCW(degrees);",
+        "description": "当前角色当前朝向基础上逆时针旋转角度(number)"
+    },
+    "this.motion.pointDirection(degrees)": {
+        "prefix": "this.motion.pointDirection(degrees);",
+        "body": "this.motion.pointDirection(degrees);",
+        "description": "当前角色设置指向方向(number)(上右下左: 0,90,180,270)"
+    },
+    "this.motion.setAngle(degrees)": {
+        "prefix": "this.motion.setAngle(degrees);",
+        "body": "this.motion.setAngle(degrees);",
+        "description": "当前角色设置角度(number)(上右下左: 90,0,270,180)"
+    },
+    "this.motion.pointTowards(actorName)": {
+        "prefix": "this.motion.pointTowards(actorName);",
+        "body": "this.motion.pointTowards(actorName);",
+        "description": "当前角色与目标角色的角度(string)"
+    },
+    "this.motion.moveTo(x, y)": {
+        "prefix": "this.motion.moveTo(x, y);",
+        "body": "this.motion.moveTo(x, y);",
+        "description": "当前角色移动到xy(number,number)"
+    },
+    "this.motion.follow(actorName)": {
+        "prefix": "this.motion.follow(actorName);",
+        "body": "this.motion.follow(actorName);",
+        "description": "当前角色移动到目标角色位置(string)"
+    },
+    "this.motion.glide(seconds, x, y)": {
+        "prefix": "this.motion.glide(seconds, x, y);",
+        "body": "this.motion.glide(seconds, x, y);",
+        "description": "会阻塞之后的事件,当前角色移动在时间内移动到xy(number,number,number)"
+    },
+    "this.motion.changeXBy(x)": {
+        "prefix": "this.motion.changeXBy(x);",
+        "body": "this.motion.changeXBy(x);",
+        "description": "在当前x的基础上[增加]x(number)"
+    },
+    "this.motion.setX(x)": {
+        "prefix": "this.motion.setX(x);",
+        "body": "this.motion.setX(x);",
+        "description": "设置当前角色x(number)"
+    },
+    "this.motion.changeYBy(y)": {
+        "prefix": "this.motion.changeYBy(y);",
+        "body": "this.motion.changeYBy(y);",
+        "description": ""
+    },
+    "this.motion.setY(y)": {
+        "prefix": "this.motion.setY(y);",
+        "body": "this.motion.setY(y);",
+        "description": "设置当前角色y(number)"
+    },
+    "this.motion.bounceOnEdge()": {
+        "prefix": "this.motion.bounceOnEdge();",
+        "body": "this.motion.bounceOnEdge();",
+        "description": "当前角色触碰到边缘时转向"
+    },
+    "this.motion.setRotationStyle(style)": {
+        "prefix": "this.motion.setRotationStyle(style);",
+        "body": "this.motion.setRotationStyle(style);",
+        "description": "当前角色设置旋转样式(string: all around|left.right|don't rotate)"
+    },
+    "this.motion.getX()": {
+        "prefix": "this.motion.getX();",
+        "body": "this.motion.getX();",
+        "description": "获得当前角色的x"
+    },
+    "this.motion.getY()": {
+        "prefix": "this.motion.getY();",
+        "body": "this.motion.getY();",
+        "description": "获得当前角色的y"
+    },
+    "this.motion.getDirection()": {
+        "prefix": "this.motion.getDirection();",
+        "body": "this.motion.getDirection();",
+        "description": "获得当前角色的方向"
+    },
+    "this.motion.getAngle()": {
+        "prefix": "this.motion.getAngle();",
+        "body": "this.motion.getAngle();",
+        "description": "获得当前角度(上右下左: 90,0,270,180)"
+    },
+    "this.animation.rotateTo(time, theta, easing, name)": {
+        "prefix": "this.animation.rotateTo(time, theta, easing, name);",
+        "body": "this.animation.rotateTo(time, theta, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式旋转到角度,动画名称(number,number,string,string)"
+    },
+    "this.animation.rotateBy(time, theta, easing, name)": {
+        "prefix": "this.animation.rotateBy(time, theta, easing, name);",
+        "body": "this.animation.rotateBy(time, theta, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式在当前角度的基础上旋转角度,动画名称(number,number,string,string)"
+    },
+    "this.animation.moveTo(time, x, y, easing, name)": {
+        "prefix": "this.animation.moveTo(time, x, y, easing, name);",
+        "body": "this.animation.moveTo(time, x, y, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式移动到xy,动画名称(number,number,number,string,string)"
+    },
+    "this.animation.moveBy(time, x, y, easing, name)": {
+        "prefix": "this.animation.moveBy(time, x, y, easing, name);",
+        "body": "this.animation.moveBy(time, x, y, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式在当前xy的基础上移动xy,动画名称(number,number,number,string,string)"
+    },
+    "this.animation.scaleTo(time, scale, easing, name)": {
+        "prefix": "this.animation.scaleTo(time, scale, easing, name);",
+        "body": "this.animation.scaleTo(time, scale, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式缩放到指定比例,动画名称(number,number,string,string)"
+    },
+    "this.animation.scaleBy(time, scale, easing, name)": {
+        "prefix": "this.animation.scaleBy(time, scale, easing, name);",
+        "body": "this.animation.scaleBy(time, scale, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式在当前缩放比例的基础上缩放比例,动画名称(number,number,string,string)"
+    },
+    "this.animation.bezierBy(time, x, y, cx1, cy1, cx2, cy2, easing, name)": {
+        "prefix": "this.animation.bezierBy(time, x, y, cx1, cy1, cx2, cy2, easing, name);",
+        "body": "this.animation.bezierBy(time, x, y, cx1, cy1, cx2, cy2, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式在当前xy的基础上使用[贝塞尔曲线]的方式移动xy,动画名称(number,number,number,number,number,number,number,string,string)"
+    },
+    "this.animation.bezierTo(time, x, y, cx1, cy1, cx2, cy2, easing, name)": {
+        "prefix": "this.animation.bezierTo(time, x, y, cx1, cy1, cx2, cy2, easing, name);",
+        "body": "this.animation.bezierTo(time, x, y, cx1, cy1, cx2, cy2, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式使用[贝塞尔曲线]的方式移动到xy,动画名称(number,number,number,number,number,number,number,string,string)"
+    },
+    "this.animation.effectBy(time, effect, value, easing, name)": {
+        "prefix": "this.animation.effectBy(time, effect, value, easing, name);",
+        "body": "this.animation.effectBy(time, effect, value, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式在当前效果的基础上改变为[effect]的效果,动画名称(number,string,string,string,string)"
+    },
+    "this.animation.effectTo(time, effect, value, easing, name)": {
+        "prefix": "this.animation.effectTo(time, effect, value, easing, name);",
+        "body": "this.animation.effectTo(time, effect, value, easing, name);",
+        "description": "当前角色在时间内使用[Easing]方式改变为[effect]的效果,动画名称(number,string,string,string,string)"
+    },
+    "this.animation.changeCostumes(time, fps, prefix, easing, name)": {
+        "prefix": "this.animation.changeCostumes(time, fps, prefix, easing, name);",
+        "body": "this.animation.changeCostumes(time, fps, prefix, easing, name);",
+        "description": "改变样式"
+    },
+    "this.animation.waitFor(name)": {
+        "prefix": "this.animation.waitFor(name);",
+        "body": "this.animation.waitFor(name);",
+        "description": "等待直到(name)完成"
+    },
+    "this.animation.stop(name)": {
+        "prefix": "this.animation.stop(name);",
+        "body": "this.animation.stop(name);",
+        "description": "停止(name)"
+    },
+    "this.animation.isRunning(name)": {
+        "prefix": "this.animation.isRunning(name);",
+        "body": "this.animation.isRunning(name);",
+        "description": "判断(name)是否正在运行"
+    },
+    "this.looks.setCostume(name)": {
+        "prefix": "this.looks.setCostume(name);",
+        "body": "this.looks.setCostume(name);",
+        "description": "设置样式"
+    },
+    "this.looks.nextCostume()": {
+        "prefix": "this.looks.nextCostume();",
+        "body": "this.looks.nextCostume();",
+        "description": "下一个样式"
+    },
+    "this.looks.firstCostumeInGroup(prefix)": {
+        "prefix": "this.looks.firstCostumeInGroup(prefix);",
+        "body": "this.looks.firstCostumeInGroup(prefix);",
+        "description": "样式组的第一个"
+    },
+    "this.looks.nextCostumeInGroup(prefix)": {
+        "prefix": "this.looks.nextCostumeInGroup(prefix);",
+        "body": "this.looks.nextCostumeInGroup(prefix);",
+        "description": "样式组的下一个"
+    },
+    "this.looks.getCostumeIndex()": {
+        "prefix": "this.looks.getCostumeIndex();",
+        "body": "this.looks.getCostumeIndex();",
+        "description": "获得当前样式索引"
+    },
+    "this.looks.getCostume()": {
+        "prefix": "this.looks.getCostume();",
+        "body": "this.looks.getCostume();",
+        "description": "获得当前样式名"
+    },
+    "this.looks.setBackground(scene)": {
+        "prefix": "this.looks.setBackground(scene);",
+        "body": "this.looks.setBackground(scene);",
+        "description": "设置背景"
+    },
+    "this.looks.setBackgroundAndWait(scene)": {
+        "prefix": "this.looks.setBackgroundAndWait(scene);",
+        "body": "this.looks.setBackgroundAndWait(scene);",
+        "description": "设置并等待背景设置完成"
+    },
+    "this.looks.nextBackground()": {
+        "prefix": "this.looks.nextBackground();",
+        "body": "this.looks.nextBackground();",
+        "description": "下一个背景"
+    },
+    "this.looks.firstBackgroundInGroup(prefix)": {
+        "prefix": "this.looks.firstBackgroundInGroup(prefix);",
+        "body": "this.looks.firstBackgroundInGroup(prefix);",
+        "description": "背景组的第一个"
+    },
+    "this.looks.nextBackgroundInGroup(prefix)": {
+        "prefix": "this.looks.nextBackgroundInGroup(prefix);",
+        "body": "this.looks.nextBackgroundInGroup(prefix);",
+        "description": "背景组的下一个"
+    },
+    "this.looks.getBackgroundIndex()": {
+        "prefix": "this.looks.getBackgroundIndex();",
+        "body": "this.looks.getBackgroundIndex();",
+        "description": "获得当前背景的索引"
+    },
+    "this.looks.getBackground()": {
+        "prefix": "this.looks.getBackground();",
+        "body": "this.looks.getBackground();",
+        "description": "获得当前背景名"
+    },
+    "this.looks.setLabel(text)": {
+        "prefix": "this.looks.setLabel(text);",
+        "body": "this.looks.setLabel(text);",
+        "description": "设置文字"
+    },
+    "this.looks.setBubbleStyle(style)": {
+        "prefix": "this.looks.setBubbleStyle(style);",
+        "body": "this.looks.setBubbleStyle(style);",
+        "description": "设置气泡样式"
+    },
+    "this.looks.setBubbleDock(dock)": {
+        "prefix": "this.looks.setBubbleDock(dock);",
+        "body": "this.looks.setBubbleDock(dock);",
+        "description": ""
+    },
+    "this.looks.say(text)": {
+        "prefix": "this.looks.say(text);",
+        "body": "this.looks.say(text);",
+        "description": "说"
+    },
+    "this.looks.sayFor(text, seconds)": {
+        "prefix": "this.looks.sayFor(text, seconds);",
+        "body": "this.looks.sayFor(text, seconds);",
+        "description": "阻塞的说(seconds)秒"
+    },
+    "this.looks.think(text)": {
+        "prefix": "this.looks.think(text);",
+        "body": "this.looks.think(text);",
+        "description": "想"
+    },
+    "this.looks.thinkFor(text, seconds)": {
+        "prefix": "this.looks.thinkFor(text, seconds);",
+        "body": "this.looks.thinkFor(text, seconds);",
+        "description": "阻塞的想(seconds)秒"
+    },
+    "this.looks.changeEffect(effect, n)": {
+        "prefix": "this.looks.changeEffect(effect, n);",
+        "body": "this.looks.changeEffect(effect, n);",
+        "description": "改变效果"
+    },
+    "this.looks.setEffect(effect, n)": {
+        "prefix": "this.looks.setEffect(effect, n);",
+        "body": "this.looks.setEffect(effect, n);",
+        "description": "设置效果"
+    },
+    "this.looks.resetEffects()": {
+        "prefix": "this.looks.resetEffects();",
+        "body": "this.looks.resetEffects();",
+        "description": "重置效果"
+    },
+    "this.looks.changeSize(scale)": {
+        "prefix": "this.looks.changeSize(scale);",
+        "body": "this.looks.changeSize(scale);",
+        "description": "改变大小"
+    },
+    "this.looks.setSize()": {
+        "prefix": "this.looks.setSize();",
+        "body": "this.looks.setSize();",
+        "description": "设置大小"
+    },
+    "this.looks.getSize()": {
+        "prefix": "this.looks.getSize();",
+        "body": "this.looks.getSize();",
+        "description": "获得大小"
+    },
+    "this.looks.show()": {
+        "prefix": "this.looks.show();",
+        "body": "this.looks.show();",
+        "description": "显示"
+    },
+    "this.looks.hide()": {
+        "prefix": "this.looks.hide();",
+        "body": "this.looks.hide();",
+        "description": "隐藏"
+    },
+    "this.looks.isHidden()": {
+        "prefix": "this.looks.isHidden();",
+        "body": "this.looks.isHidden();",
+        "description": "是否隐藏"
+    },
+    "this.looks.setLayer(n)": {
+        "prefix": "this.looks.setLayer(n);",
+        "body": "this.looks.setLayer(n);",
+        "description": "设置层级"
+    },
+    "this.looks.getLayer()": {
+        "prefix": "this.looks.getLayer();",
+        "body": "this.looks.getLayer();",
+        "description": "获得层级"
+    },
+    "this.looks.bringToFront()": {
+        "prefix": "this.looks.bringToFront();",
+        "body": "this.looks.bringToFront();",
+        "description": "置于顶层"
+    },
+    "this.looks.sendToBack()": {
+        "prefix": "this.looks.sendToBack();",
+        "body": "this.looks.sendToBack();",
+        "description": "置于底层"
+    },
+    "this.looks.moveBackward(n)": {
+        "prefix": "this.looks.moveBackward(n);",
+        "body": "this.looks.moveBackward(n);",
+        "description": "向下移动(n)层"
+    },
+    "this.looks.bringForward(n)": {
+        "prefix": "this.looks.bringForward(n);",
+        "body": "this.looks.bringForward(n);",
+        "description": "向上移动(n)层"
+    },
+    "this.looks.dialog(text)": {
+        "prefix": "this.looks.dialog(text);",
+        "body": "this.looks.dialog(text);",
+        "description": "对话框"
+    },
+    "this.looks.prompt(text, button1, button2)": {
+        "prefix": "this.looks.prompt(text, button1, button2);",
+        "body": "this.looks.prompt(text, button1, button2);",
+        "description": "带按钮的对话框"
+    },
+    "this.sensing.isTouching(actorName)": {
+        "prefix": "this.sensing.isTouching(actorName);",
+        "body": "this.sensing.isTouching(actorName);",
+        "description": "是否与(actorName)接触"
+    },
+    "this.sensing.isTouchingClone(actorName)": {
+        "prefix": "this.sensing.isTouchingClone(actorName);",
+        "body": "this.sensing.isTouchingClone(actorName);",
+        "description": "是否与(actorName)的克隆体接触"
+    },
+    "this.sensing.isTouchingColor(color)": {
+        "prefix": "this.sensing.isTouchingColor(color);",
+        "body": "this.sensing.isTouchingColor(color);",
+        "description": "是否与(color)颜色接触"
+    },
+    "this.sensing.isColorTouchingColor(color1, color2)": {
+        "prefix": "this.sensing.isColorTouchingColor(color1, color2);",
+        "body": "this.sensing.isColorTouchingColor(color1, color2);",
+        "description": "//是否(color)颜色与(color)颜色接触"
+    },
+    "this.sensing.ask(text)": {
+        "prefix": "this.sensing.ask(text);",
+        "body": "this.sensing.ask(text);",
+        "description": "询问"
+    },
+    "this.sensing.askChoices(text, choice1, choice2)": {
+        "prefix": "this.sensing.askChoices(text, choice1, choice2);",
+        "body": "this.sensing.askChoices(text, choice1, choice2);",
+        "description": "带选项询问"
+    },
+    "this.sensing.getAnswer()": {
+        "prefix": "this.sensing.getAnswer();",
+        "body": "this.sensing.getAnswer();",
+        "description": "获得答案"
+    },
+    "this.sensing.getMouseX()": {
+        "prefix": "this.sensing.getMouseX();",
+        "body": "this.sensing.getMouseX();",
+        "description": "获得鼠标X"
+    },
+    "this.sensing.getMouseY()": {
+        "prefix": "this.sensing.getMouseY();",
+        "body": "this.sensing.getMouseY();",
+        "description": "获得鼠标Y"
+    },
+    "this.sensing.isMouseDown()": {
+        "prefix": "this.sensing.isMouseDown();",
+        "body": "this.sensing.isMouseDown();",
+        "description": "判断鼠标按下"
+    },
+    "this.sensing.isKeyPressed(keyName)": {
+        "prefix": "this.sensing.isKeyPressed(keyName);",
+        "body": "this.sensing.isKeyPressed(keyName);",
+        "description": "键盘是否按下(keyName)"
+    },
+    "this.sensing.getDistance(actorName)": {
+        "prefix": "this.sensing.getDistance(actorName);",
+        "body": "this.sensing.getDistance(actorName);",
+        "description": "获得与(actorName)距离"
+    },
+    "this.sensing.resetTimer()": {
+        "prefix": "this.sensing.resetTimer();",
+        "body": "this.sensing.resetTimer();",
+        "description": "重置计时器"
+    },
+    "this.sensing.getTimer()": {
+        "prefix": "this.sensing.getTimer();",
+        "body": "this.sensing.getTimer();",
+        "description": "获得计时器"
+    },
+    "this.sensing.getSpriteProperty(prop, actorName)": {
+        "prefix": "this.sensing.getSpriteProperty(prop, actorName);",
+        "body": "this.sensing.getSpriteProperty(prop, actorName);",
+        "description": "获得(actorName)的(prop)属性"
+    },
+    "this.sensing.getActorName()": {
+        "prefix": "this.sensing.getActorName();",
+        "body": "this.sensing.getActorName();",
+        "description": "获得当前角色名"
+    },
+    "this.sensing.getActorNameAtIndex(n)": {
+        "prefix": "this.sensing.getActorNameAtIndex(n);",
+        "body": "this.sensing.getActorNameAtIndex(n);",
+        "description": "获得第(n)个角色名"
+    },
+    "this.sensing.getActorCount()": {
+        "prefix": "this.sensing.getActorCount();",
+        "body": "this.sensing.getActorCount();",
+        "description": "获得当前角色索引"
+    },
+    "this.sensing.getTouchedActorName()": {
+        "prefix": "this.sensing.getTouchedActorName();",
+        "body": "this.sensing.getTouchedActorName();",
+        "description": "获得当前接触角色名"
+    },
+    "this.sensing.getDateTime(which)": {
+        "prefix": "this.sensing.getDateTime(which);",
+        "body": "this.sensing.getDateTime(which);",
+        "description": "获得日期时间"
+    },
+    "this.sensing.getScreenLeft()": {
+        "prefix": "this.sensing.getScreenLeft();",
+        "body": "this.sensing.getScreenLeft();",
+        "description": "获得相对左侧距离"
+    },
+    "this.sensing.getScreenRight()": {
+        "prefix": "this.sensing.getScreenRight();",
+        "body": "this.sensing.getScreenRight();",
+        "description": "获得相对右侧距离"
+    },
+    "this.sensing.getScreenTop()": {
+        "prefix": "this.sensing.getScreenTop();",
+        "body": "this.sensing.getScreenTop();",
+        "description": "获得相对顶部距离"
+    },
+    "this.sensing.getScreenBottom()": {
+        "prefix": "this.sensing.getScreenBottom();",
+        "body": "this.sensing.getScreenBottom();",
+        "description": "获得相对底部距离"
+    },
+    "this.sensing.getScreenProperty(which)": {
+        "prefix": "this.sensing.getScreenProperty(which);",
+        "body": "this.sensing.getScreenProperty(which);",
+        "description": "获得屏幕属性"
+    },
+    "this.sensing.getUserId()": {
+        "prefix": "this.sensing.getUserId();",
+        "body": "this.sensing.getUserId();",
+        "description": "获得用户id(没用)"
+    },
+    "this.sensing.getUserFirstName()": {
+        "prefix": "this.sensing.getUserFirstName();",
+        "body": "this.sensing.getUserFirstName();",
+        "description": "获得用户名字(没用)"
+    },
+    "this.sound.play(name)": {
+        "prefix": "this.sound.play(name);",
+        "body": "this.sound.play(name);",
+        "description": "播放"
+    },
+    "this.sound.playUntilDone(name)": {
+        "prefix": "this.sound.playUntilDone(name);",
+        "body": "this.sound.playUntilDone(name);",
+        "description": "播放知道(name)完成"
+    },
+    "this.sound.stopAll()": {
+        "prefix": "this.sound.stopAll();",
+        "body": "this.sound.stopAll();",
+        "description": "停止所有"
+    },
+    "this.sound.playDrum(drumIdx, beats)": {
+        "prefix": "this.sound.playDrum(drumIdx, beats);",
+        "body": "this.sound.playDrum(drumIdx, beat);",
+        "description": ""
+    },
+    "this.sound.playRest(beats)": {
+        "prefix": "this.sound.playRest(beats);",
+        "body": "this.sound.playRest(beats);",
+        "description": "重置"
+    },
+    "this.sound.playNote(noteIdx)": {
+        "prefix": "this.sound.playNote(noteIdx);",
+        "body": "this.sound.playNote(noteIdx);",
+        "description": "播放记录"
+    },
+    "this.sound.setInstrument(instrumentIdx)": {
+        "prefix": "this.sound.setInstrument(instrumentIdx);",
+        "body": "this.sound.setInstrument(instrumentId;",
+        "description": ""
+    },
+    "this.sound.changeVolume(n)": {
+        "prefix": "this.sound.changeVolume(n);",
+        "body": "this.sound.changeVolume(n);",
+        "description": "改变音量"
+    },
+    "this.sound.setVolume(n)": {
+        "prefix": "this.sound.setVolume(n);",
+        "body": "this.sound.setVolume(n);",
+        "description": "设置音量"
+    },
+    "this.sound.getVolume()": {
+        "prefix": "this.sound.getVolume();",
+        "body": "this.sound.getVolume();",
+        "description": "获得音量"
+    },
+    "this.sound.changeTempo(n)": {
+        "prefix": "this.sound.changeTempo(n);",
+        "body": "this.sound.changeTempo(n);",
+        "description": "改变速度"
+    },
+    "this.sound.setTempo(n)": {
+        "prefix": "this.sound.setTempo(n);",
+        "body": "this.sound.setTempo(n);",
+        "description": "设置速度"
+    },
+    "this.sound.getTempo()": {
+        "prefix": "this.sound.getTempo();",
+        "body": "this.sound.getTempo();",
+        "description": "获得速度"
+    },
+    "this.canvas.clear()": {
+        "prefix": "this.canvas.clear();",
+        "body": "this.canvas.clear();",
+        "description": "清空"
+    },
+    "this.canvas.penDown()": {
+        "prefix": "this.canvas.penDown();",
+        "body": "this.canvas.penDown();",
+        "description": "画笔落下"
+    },
+    "this.canvas.penUp()": {
+        "prefix": "this.canvas.penUp();",
+        "body": "this.canvas.penUp();",
+        "description": "画笔抬起"
+    },
+    "this.canvas.setColor(color)": {
+        "prefix": "this.canvas.setColor(color);",
+        "body": "this.canvas.setColor(color);",
+        "description": "设置画笔颜色"
+    },
+    "this.canvas.changeHue(n)": {
+        "prefix": "this.canvas.changeHue(n);",
+        "body": "this.canvas.changeHue(n);",
+        "description": "改变色调"
+    },
+    "this.canvas.setHue(n)": {
+        "prefix": "this.canvas.setHue(n);",
+        "body": "this.canvas.setHue(n);",
+        "description": "设置色调"
+    },
+    "this.canvas.changeShade(n)": {
+        "prefix": "this.canvas.changeShade(n);",
+        "body": "this.canvas.changeShade(n);",
+        "description": "改变阴影"
+    },
+    "this.canvas.setShade(n)": {
+        "prefix": "this.canvas.setShade(n);",
+        "body": "this.canvas.setShade(n);",
+        "description": "设置阴影"
+    },
+    "this.canvas.changePenSize(n)": {
+        "prefix": "this.canvas.changePenSize(n);",
+        "body": "this.canvas.changePenSize(n);",
+        "description": "改变画笔粗细"
+    },
+    "this.canvas.setPenSize(n)": {
+        "prefix": "this.canvas.setPenSize(n);",
+        "body": "this.canvas.setPenSize(n);",
+        "description": "设置画笔粗细"
+    },
+    "this.canvas.stamp": {
+        "prefix": "this.canvas.stamp",
+        "body": "this.canvas.stamp;",
+        "description": ""
+    },
+    "this.canvas.setFont(size, style, fontName)": {
+        "prefix": "this.canvas.setFont(size, style, fontName);",
+        "body": "this.canvas.setFont(size, style, fontName);",
+        "description": "字体"
+    },
+    "this.canvas.setFontColor(color)": {
+        "prefix": "this.canvas.setFontColor(color);",
+        "body": "this.canvas.setFontColor(color);",
+        "description": "字体颜色"
+    },
+    "this.canvas.drawText(text)": {
+        "prefix": "this.canvas.drawText(text);",
+        "body": "this.canvas.drawText(text);",
+        "description": "文本"
+    },
+    "this.canvas.redraw()": {
+        "prefix": "this.canvas.redraw();",
+        "body": "this.canvas.redraw();",
+        "description": "重绘"
+    },
+    "this.canvas.setFillColor(color)": {
+        "prefix": "this.canvas.setFillColor(color);",
+        "body": "this.canvas.setFillColor(color);",
+        "description": "填充颜色"
+    },
+    "this.canvas.setNoFill()": {
+        "prefix": "this.canvas.setNoFill();",
+        "body": "this.canvas.setNoFill();",
+        "description": "无填充"
+    },
+    "this.canvas.drawBezier(x1, y1, x2, y2, cx1, cy1, cx2, cy2)": {
+        "prefix": "this.canvas.drawBezier(x1, y1, x2, y2, cx1, cy1, cx2, cy2);",
+        "body": "this.canvas.drawBezier(x1, y1, x2, y2, cx1, cy1, cx2, cy2);",
+        "description": "贝塞尔曲线"
+    },
+    "this.canvas.drawPoint(x, y)": {
+        "prefix": "this.canvas.drawPoint(x, y);",
+        "body": "this.canvas.drawPoint(x, y);",
+        "description": "点"
+    },
+    "this.canvas.drawLine(x1, y1, x2, y2)": {
+        "prefix": "this.canvas.drawLine(x1, y1, x2, y2);",
+        "body": "this.canvas.drawLine(x1, y1, x2, y2);",
+        "description": "直线"
+    },
+    "this.canvas.drawRect(x, y, width, height)": {
+        "prefix": "this.canvas.drawRect(x, y, width, height);",
+        "body": "this.canvas.drawRect(x, y, width, height);",
+        "description": "矩形"
+    },
+    "this.canvas.drawTriangle(x1, y1, x2, y2, x3, y3)": {
+        "prefix": "this.canvas.drawTriangle(x1, y1, x2, y2, x3, y3);",
+        "body": "this.canvas.drawTriangle(x1, y1, x2, y2, x3, y3);",
+        "description": "三角"
+    },
+    "this.canvas.drawEllipse(x, y, width, height)": {
+        "prefix": "this.canvas.drawEllipse(x, y, width, height);",
+        "body": "this.canvas.drawEllipse(x, y, width, height);",
+        "description": "圆"
+    },
+    "this.canvas.drawTextAt(text, x, y)": {
+        "prefix": "this.canvas.drawTextAt(text, x, y);",
+        "body": "this.canvas.drawTextAt(text, x, y);",
+        "description": "指定位置文本"
+    },
+    "this.canvas.drawLocalRect(width, height)": {
+        "prefix": "this.canvas.drawLocalRect(width, height);",
+        "body": "this.canvas.drawLocalRect(width, height);",
+        "description": "正方形"
+    },
+    "this.canvas.drawLocalEllipse(width, height)": {
+        "prefix": "this.canvas.drawLocalEllipse(width, height);",
+        "body": "this.canvas.drawLocalEllipse(width, height);",
+        "description": "正圆"
+    },
+    "this.physics.getProperty(name, actor)": {
+        "prefix": "this.physics.getProperty(name, actor);",
+        "body": "this.physics.getProperty(name, actor);",
+        "description": "获取属性"
+    },
+    "this.physics.apply(name, actor, value)": {
+        "prefix": "this.physics.apply(name, actor, value);",
+        "body": "this.physics.apply(name, actor, value);",
+        "description": "应用"
+    },
+    "this.physics.applyXY(name, actor, x, y)": {
+        "prefix": "this.physics.applyXY(name, actor, x, y);",
+        "body": "this.physics.applyXY(name, actor, x, y);",
+        "description": "应用xy"
+    },
+    "this.physics.applyActive(actor, boolean)": {
+        "prefix": "this.physics.applyActive(actor, boolean);",
+        "body": "this.physics.applyActive(actor, boolean);",
+        "description": "应用活动"
+    },
+    "this.physics.applyStatic(actor, boolean)": {
+        "prefix": "this.physics.applyStatic(actor, boolean);",
+        "body": "this.physics.applyStatic(actor, boolean);",
+        "description": "应用静态"
+    },
+    "this.physics.applyGeometry(actor, geometry)": {
+        "prefix": "this.physics.applyGeometry(actor, geometry);",
+        "body": "this.physics.applyGeometry(actor, geometry);",
+        "description": "应用几何图形"
+    },
+    "this.physics.isCollidedWith(actorName)": {
+        "prefix": "this.physics.isCollidedWith(actorName);",
+        "body": "this.physics.isCollidedWith(actorName);",
+        "description": "与角色相撞"
+    },
+    "this.physics.getCollidedName()": {
+        "prefix": "this.physics.getCollidedName();",
+        "body": "this.physics.getCollidedName();",
+        "description": "获得碰撞名称"
+    },
+    "this.physics.applyForce(n)": {
+        "prefix": "this.physics.applyForce(n);",
+        "body": "this.physics.applyForce(n);",
+        "description": "施加力"
+    },
+    "this.physics.applyImpulse(n)": {
+        "prefix": "this.physics.applyImpulse(n);",
+        "body": "this.physics.applyImpulse(n);",
+        "description": "施加脉冲"
+    },
+    "this.physics.applyForceAtAngle(n, degrees)": {
+        "prefix": "this.physics.applyForceAtAngle(n, degrees);",
+        "body": "this.physics.applyForceAtAngle(n, degrees);",
+        "description": "以一定角度施力"
+    },
+    "this.physics.applyImpulseAtAngle(n, degrees)": {
+        "prefix": "this.physics.applyImpulseAtAngle(n, degrees);",
+        "body": "this.physics.applyImpulseAtAngle(n, degrees);",
+        "description": "以一定角度施加脉冲"
+    },
+    "this.physics.applyForceAtXY(x, y)": {
+        "prefix": "this.physics.applyForceAtXY(x, y);",
+        "body": "this.physics.applyForceAtXY(x, y);",
+        "description": "在xy施加力"
+    },
+    "this.physics.applyImpulseAtXY(x, y)": {
+        "prefix": "this.physics.applyImpulseAtXY(x, y);",
+        "body": "this.physics.applyImpulseAtXY(x, y);",
+        "description": "在xy施加脉冲"
+    },
+    "this.physics.applyTorque(n)": {
+        "prefix": "this.physics.applyTorque(n);",
+        "body": "this.physics.applyTorque(n);",
+        "description": "施加扭矩"
+    },
+    "this.physics.setActive(b)": {
+        "prefix": "this.physics.setActive(b);",
+        "body": "this.physics.setActive(b);",
+        "description": "设置活动状态"
+    },
+    "this.physics.setStatic(b)": {
+        "prefix": "this.physics.setStatic(b);",
+        "body": "this.physics.setStatic(b);",
+        "description": "设置静态"
+    },
+    "this.physics.setGeometry(geometry)": {
+        "prefix": "this.physics.setGeometry(geometry);",
+        "body": "this.physics.setGeometry(geometry);",
+        "description": "设置几何结构"
+    },
+    "this.physics.setDensity(n)": {
+        "prefix": "this.physics.setDensity(n);",
+        "body": "this.physics.setDensity(n);",
+        "description": "设置密度"
+    },
+    "this.physics.setFriction(n)": {
+        "prefix": "this.physics.setFriction(n);",
+        "body": "this.physics.setFriction(n);",
+        "description": "设置摩擦力"
+    },
+    "this.physics.setRestitution(n)": {
+        "prefix": "this.physics.setRestitution(n);",
+        "body": "this.physics.setRestitution(n);",
+        "description": "恢复原状"
+    },
+    "this.physics.setAngularDamping(n)": {
+        "prefix": "this.physics.setAngularDamping(n);",
+        "body": "this.physics.setAngularDamping(n);",
+        "description": "设置角阻力"
+    },
+    "this.physics.setAngularVelocity(n)": {
+        "prefix": "this.physics.setAngularVelocity(n);",
+        "body": "this.physics.setAngularVelocity(n);",
+        "description": "设置角速度"
+    },
+    "this.physics.setLinearDamping(n)": {
+        "prefix": "this.physics.setLinearDamping(n);",
+        "body": "this.physics.setLinearDamping(n);",
+        "description": "设置线性阻力"
+    },
+    "this.physics.setLinearVelocity(x, y)": {
+        "prefix": "this.physics.setLinearVelocity(x, y);",
+        "body": "this.physics.setLinearVelocity(x, y);",
+        "description": "设置线性速度"
+    },
+    "this.physics.getDensity()": {
+        "prefix": "this.physics.getDensity();",
+        "body": "this.physics.getDensity();",
+        "description": "获得密度"
+    },
+    "this.physics.getFriction()": {
+        "prefix": "this.physics.getFriction();",
+        "body": "this.physics.getFriction();",
+        "description": "获得摩擦力"
+    },
+    "this.physics.getRestitution()": {
+        "prefix": "this.physics.getRestitution();",
+        "body": "this.physics.getRestitution();",
+        "description": "恢复原状"
+    },
+    "this.physics.getAngularVelocity()": {
+        "prefix": "this.physics.getAngularVelocity();",
+        "body": "this.physics.getAngularVelocity();",
+        "description": "获得角速度"
+    },
+    "this.physics.getInertia()": {
+        "prefix": "this.physics.getInertia();",
+        "body": "this.physics.getInertia();",
+        "description": "获得惯性"
+    },
+    "this.physics.isAwake()": {
+        "prefix": "this.physics.isAwake();",
+        "body": "this.physics.isAwake();",
+        "description": "是醒着的"
+    },
+    "this.physics.getVelocityX()": {
+        "prefix": "this.physics.getVelocityX();",
+        "body": "this.physics.getVelocityX();",
+        "description": "获取x速度"
+    },
+    "this.physics.getVelocityY()": {
+        "prefix": "this.physics.getVelocityY();",
+        "body": "this.physics.getVelocityY();",
+        "description": "获取y速度"
+    },
+    "this.physics.getAngularDamping()": {
+        "prefix": "this.physics.getAngularDamping();",
+        "body": "this.physics.getAngularDamping();",
+        "description": "获得角阻力"
+    },
+    "this.physics.getLinearDamping()": {
+        "prefix": "this.physics.getLinearDamping();",
+        "body": "this.physics.getLinearDamping();",
+        "description": "获得线性阻力"
+    },
+    "this.physics.setGravity(x, y)": {
+        "prefix": "this.physics.setGravity(x, y);",
+        "body": "this.physics.setGravity(x, y);",
+        "description": "设置重力"
+    },
+    "this.physics.getGravityX()": {
+        "prefix": "this.physics.getGravityX();",
+        "body": "this.physics.getGravityX();",
+        "description": "获得x重力"
+    },
+    "this.physics.getGravityY()": {
+        "prefix": "this.physics.getGravityY();",
+        "body": "this.physics.getGravityY();",
+        "description": "获得y重力"
+    },
+    "this.physics.start()": {
+        "prefix": "this.physics.start();",
+        "body": "this.physics.start();",
+        "description": "开始"
+    },
+    "this.physics.stop()": {
+        "prefix": "this.physics.stop();",
+        "body": "this.physics.stop();",
+        "description": "结束"
+    },
+    "this.net.saveValue(name, value, access)": {
+        "prefix": "this.net.saveValue(name, value, access);",
+        "body": "this.net.saveValue(name, value, access);",
+        "description": "保存数据"
+    },
+    "this.net.loadValue(name)": {
+        "prefix": "this.net.loadValue(name);",
+        "body": "this.net.loadValue(name);",
+        "description": "获得数据"
+    },
+    "this.net.fetch(url)": {
+        "prefix": "this.net.fetch(url);",
+        "body": "this.net.fetch(url);",
+        "description": "请求url"
+    },
+    "this.net.parse(json)": {
+        "prefix": "this.net.parse(json);",
+        "body": "this.net.parse(json);",
+        "description": "解析json"
+    },
+    "this.net.getResult()": {
+        "prefix": "this.net.getResult();",
+        "body": "this.net.getResult();",
+        "description": "获得结果"
+    },
+    "this.print()": {
+        "prefix": "this.print();",
+        "body": "this.print();",
+        "description": "打印"
+    },
+    "easeLinear": {
+        "prefix": "easeLinear",
+        "body": "easeLinear",
+        "description": "动画效果(默认)"
+    },
+    "easeInQuad": {
+        "prefix": "easeInQuad",
+        "body": "easeInQuad",
+        "description": "动画效果"
+    },
+    "easeOutQuad": {
+        "prefix": "easeOutQuad",
+        "body": "easeOutQuad",
+        "description": "动画效果"
+    },
+    "easeInOutQuad": {
+        "prefix": "easeInOutQuad",
+        "body": "easeInOutQuad",
+        "description": "动画效果"
+    },
+    "easeInCubic": {
+        "prefix": "easeInCubic",
+        "body": "easeInCubic",
+        "description": "动画效果"
+    },
+    "easeOutCubic": {
+        "prefix": "easeOutCubic",
+        "body": "easeOutCubic",
+        "description": "动画效果"
+    },
+    "easeInOutCubic": {
+        "prefix": "easeInOutCubic",
+        "body": "easeInOutCubic",
+        "description": "动画效果"
+    },
+    "easeInQuart": {
+        "prefix": "easeInQuart",
+        "body": "easeInQuart",
+        "description": "动画效果"
+    },
+    "easeOutQuart": {
+        "prefix": "easeOutQuart",
+        "body": "easeOutQuart",
+        "description": "动画效果"
+    },
+    "easeInOutQuart": {
+        "prefix": "easeInOutQuart",
+        "body": "easeInOutQuart",
+        "description": "动画效果"
+    },
+    "easeInQuint": {
+        "prefix": "easeInQuint",
+        "body": "easeInQuint",
+        "description": "动画效果"
+    },
+    "easeOutQuint": {
+        "prefix": "easeOutQuint",
+        "body": "easeOutQuint",
+        "description": "动画效果"
+    },
+    "easeInOutQuint": {
+        "prefix": "easeInOutQuint",
+        "body": "easeInOutQuint",
+        "description": "动画效果"
+    },
+    "easeInSine": {
+        "prefix": "easeInSine",
+        "body": "easeInSine",
+        "description": "动画效果"
+    },
+    "easeOutSine": {
+        "prefix": "easeOutSine",
+        "body": "easeOutSine",
+        "description": "动画效果"
+    },
+    "easeInOutSine": {
+        "prefix": "easeInOutSine",
+        "body": "easeInOutSine",
+        "description": "动画效果"
+    },
+    "easeInExponential": {
+        "prefix": "easeInExponential",
+        "body": "easeInExponential",
+        "description": "动画效果"
+    },
+    "easeOutExponential": {
+        "prefix": "easeOutExponential",
+        "body": "easeOutExponential",
+        "description": "动画效果"
+    },
+    "easeInOutExponential": {
+        "prefix": "easeInOutExponential",
+        "body": "easeInOutExponential",
+        "description": "动画效果"
+    },
+    "easeInCirc": {
+        "prefix": "easeInCirc",
+        "body": "easeInCirc",
+        "description": "动画效果"
+    },
+    "easeOutCirc": {
+        "prefix": "easeOutCirc",
+        "body": "easeOutCirc",
+        "description": "动画效果"
+    },
+    "easeInOutCirc": {
+        "prefix": "easeInOutCirc",
+        "body": "easeInOutCirc",
+        "description": "动画效果"
+    },
+    "easeInElastic": {
+        "prefix": "easeInElastic",
+        "body": "easeInElastic",
+        "description": "动画效果"
+    },
+    "easeOutElastic": {
+        "prefix": "easeOutElastic",
+        "body": "easeOutElastic",
+        "description": "动画效果"
+    },
+    "easeInOutElastic": {
+        "prefix": "easeInOutElastic",
+        "body": "easeInOutElastic",
+        "description": "动画效果"
+    },
+    "easeInBack": {
+        "prefix": "easeInBack",
+        "body": "easeInBack",
+        "description": "动画效果"
+    },
+    "easeOutBack": {
+        "prefix": "easeOutBack",
+        "body": "easeOutBack",
+        "description": "动画效果"
+    },
+    "easeInOutBack": {
+        "prefix": "easeInOutBack",
+        "body": "easeInOutBack",
+        "description": "动画效果"
+    },
+    "easeInBounce": {
+        "prefix": "easeInBounce",
+        "body": "easeInBounce",
+        "description": "动画效果"
+    },
+    "easeOutBounce": {
+        "prefix": "easeOutBounce",
+        "body": "easeOutBounce",
+        "description": "动画效果"
+    },
+    "easeInOutBounc": {
+        "prefix": "easeInOutBounc",
+        "body": "easeInOutBounc",
+        "description": "动画效果"
+    },
+    "color": {
+        "prefix": "color",
+        "body": "color",
+        "description": "颜色"
+    },
+    "fisheye": {
+        "prefix": "fisheye",
+        "body": "fisheye",
+        "description": "鱼眼"
+    },
+    "whirl": {
+        "prefix": "whirl",
+        "body": "whirl",
+        "description": "旋转"
+    },
+    "pixelate": {
+        "prefix": "pixelate",
+        "body": "pixelate",
+        "description": "像素化"
+    },
+    "mosaic": {
+        "prefix": "mosaic",
+        "body": "mosaic",
+        "description": "马赛克"
+    },
+    "brightness": {
+        "prefix": "brightness",
+        "body": "brightness",
+        "description": "亮度"
+    },
+    "ghost": {
+        "prefix": "ghost",
+        "body": "ghost",
+        "description": "透明度"
+    },
+    "blur": {
+        "prefix": "blur",
+        "body": "blur",
+        "description": "模糊"
+    },
+    "bump": {
+        "prefix": "bump",
+        "body": "bump",
+        "description": " "
+    },
+    "circlesmear": {
+        "prefix": "circlesmear",
+        "body": "circlesmear",
+        "description": "圆形涂抹"
+    },
+    "contrast": {
+        "prefix": "contrast",
+        "body": "contrast",
+        "description": "对比度"
+    },
+    "crosssmear": {
+        "prefix": "crosssmear",
+        "body": "crosssmear",
+        "description": "交叉涂抹"
+    },
+    "diffusion": {
+        "prefix": "diffusion",
+        "body": "diffusion",
+        "description": "扩散"
+    },
+    "dither": {
+        "prefix": "dither",
+        "body": "dither",
+        "description": "抖动"
+    },
+    "edge": {
+        "prefix": "edge",
+        "body": "edge",
+        "description": "边缘"
+    },
+    "emboss": {
+        "prefix": "emboss",
+        "body": "emboss",
+        "description": "浮雕"
+    },
+    "exposure": {
+        "prefix": "exposure",
+        "body": "exposure",
+        "description": " "
+    },
+    "gain": {
+        "prefix": "gain",
+        "body": "gain",
+        "description": " "
+    },
+    "gamma": {
+        "prefix": "gamma",
+        "body": "gamma",
+        "description": "伽马"
+    },
+    "grayscale": {
+        "prefix": "grayscale",
+        "body": "grayscale",
+        "description": "灰度"
+    },
+    "hue": {
+        "prefix": "hue",
+        "body": "hue",
+        "description": "色调"
+    },
+    "invert": {
+        "prefix": "invert",
+        "body": "invert",
+        "description": "倒置"
+    },
+    "kaleidoscope": {
+        "prefix": "kaleidoscope",
+        "body": "kaleidoscope",
+        "description": "万花筒"
+    },
+    "lensdistortion": {
+        "prefix": "lensdistortion",
+        "body": "lensdistortion",
+        "description": "透镜变形"
+    },
+    "linesmear": {
+        "prefix": "linesmear",
+        "body": "linesmear",
+        "description": "线条涂抹"
+    },
+    "maximum": {
+        "prefix": "maximum",
+        "body": "maximum",
+        "description": " "
+    },
+    "median": {
+        "prefix": "median",
+        "body": "median",
+        "description": " "
+    },
+    "minimum": {
+        "prefix": "minimum",
+        "body": "minimum",
+        "description": " "
+    },
+    "noise": {
+        "prefix": "noise",
+        "body": "noise",
+        "description": "噪音"
+    },
+    "oil": {
+        "prefix": "oil",
+        "body": "oil",
+        "description": "油"
+    },
+    "opacity": {
+        "prefix": "opacity",
+        "body": "opacity",
+        "description": "透明度"
+    },
+    "pinch": {
+        "prefix": "pinch",
+        "body": "pinch",
+        "description": " "
+    },
+    "posterize": {
+        "prefix": "posterize",
+        "body": "posterize",
+        "description": "色调分离"
+    },
+    "rgbadjust": {
+        "prefix": "rgbadjust",
+        "body": "rgbadjust",
+        "description": "rgb调整"
+    },
+    "saturation": {
+        "prefix": "saturation",
+        "body": "saturation",
+        "description": "饱和度"
+    },
+    "sawtoothripple": {
+        "prefix": "sawtoothripple",
+        "body": "sawtoothripple",
+        "description": "锯齿"
+    },
+    "sepia": {
+        "prefix": "sepia",
+        "body": "sepia",
+        "description": "墨"
+    },
+    "sharpen": {
+        "prefix": "sharpen",
+        "body": "sharpen",
+        "description": "锐化"
+    },
+    "sineripple": {
+        "prefix": "sineripple",
+        "body": "sineripple",
+        "description": "正弦波纹"
+    },
+    "solarize": {
+        "prefix": "solarize",
+        "body": "solarize",
+        "description": "曝光度"
+    },
+    "sparkle": {
+        "prefix": "sparkle",
+        "body": "sparkle",
+        "description": "闪烁"
+    },
+    "squaresmear": {
+        "prefix": "squaresmear",
+        "body": "squaresmear",
+        "description": "方形涂抹"
+    },
+    "threshold": {
+        "prefix": "threshold",
+        "body": "threshold",
+        "description": " "
+    },
+    "triangleripple": {
+        "prefix": "triangleripple",
+        "body": "triangleripple",
+        "description": "三角形波纹"
+    },
+    "twirl": {
+        "prefix": "twirl",
+        "body": "twirl",
+        "description": "旋转一周"
+    },
+    "vignette": {
+        "prefix": "vignette",
+        "body": "vignette",
+        "description": " "
+    },
+    "waterripple": {
+        "prefix": "waterripple",
+        "body": "waterripple",
+        "description": "水波"
+    },
+    "bm.background": {
+        "prefix": "bm.background",
+        "body": [
+         "Runtime.defineScene({",
+         "    \"name\": \"Stage\",\"width\": 1280,\"height\": 720,",
+         "    \"expand\": false,\"penWidth\": 1,\"penColor\": \"rgba(0,0,0,1)\",\"fillColor\": \"\",\"font\": \"italic 32px Arial,Helvetica,sans-serif\",\"fontColor\": \"#000000\",",
+         "    \"physics\": {\"enabled\": false,\"gravityx\": 0,\"gravityy\": 0},",
+         "    \"currentCostume\": 1,",
+         "    \"costumes\": [",
+         "        {\"name\": \"bg1\",\"img\": \"bmAssets/lesson/\",\"cx\": 0,\"cy\": 0},",
+         "    ],",
+         "    \"volume\": 100,\"sounds\": []",
+         "}, function () {",
+         "",
+         "});"
+        ],
+        "description": "Runtime.defineScene({...})"
+       },
+       "bm.actor": {
+        "prefix": "bm.actor",
+        "body": [
+         "Runtime.defineActor({",
+         "    \"class\": \"\",\"name\": \"\",\"x\": 0,\"y\": 0,\"layer\": 1,\"scale\": 0.4,",
+         "    \"draggable\": false, \"angle\": 0, \"rotateLock\": 1, \"hidden\": false,\"penWidth\": 1, \"penColor\": \"rgba(0,0,0,1)\", \"fillColor\": \"\",\"font\": \"normal 18px Comic Sans MS,cursive\", \"fontColor\": \"#000000\",",
+         "    \"physics\": {\"isStatic\": true,\"isActive\": true,\"geometry\": \"rectangular\",\"density\": 1,\"friction\": 0.5,\"restitution\": 0.2},",
+         "    \"currentCostume\": 1,",
+         "    \"costumes\": [",
+         "        {\"name\": \"walkz1\",\"img\": \"bmAssets/lesson/\",\"cx\": 0,\"cy\": 0}",
+         "    ],",
+         "    \"volume\": 100,\"sounds\": [{\"name\": \"\", \"sound\": \"bmAssets/audios/\"}]",
+         "}, function () {",
+         "",
+         "});"
+        ],
+        "description": "Runtime.defineActor({...})"
+       }
+
+}

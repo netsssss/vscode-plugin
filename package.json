@@ -1,0 +1,61 @@
+{
+  "author": "xuwei",
+  "publisher": "Bmcode",
+  "version": "1.0.0",
+  "name": "bmcode-plugin",
+  "displayName": "bmcode plugin",
+  "description": "Use within Bmcode",
+  "icon": "img/icon.png",
+  "main": "./src/extension",
+  "engines": {
+    "vscode": "^1.1.36"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "Bmcode.hello",
+        "title": "Hello Bmcode"
+      }
+    ],
+    "languages": [
+      {
+        "id": "bm",
+        "extensions": [
+          ".bm"
+        ],
+        "configuration": "./syntaxes/bm.language.config.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "bm",
+        "scopeName": "text.bm",
+        "path": "./syntaxes/bm.tmLanguage.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "bm",
+        "path": "./snippets/bm.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netsssss"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.7.0",
+    "js-beautify": "^1.10.2",
+    "uglify-js": "^3.6.0",
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4"
+  }
+}
